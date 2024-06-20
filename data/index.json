@@ -1,0 +1,75 @@
+{
+    "aboutMe":"My name is Zen George and I am a student at Life Choices","projects":[
+        {
+            "name":"Calculator",
+            "github":"https://github.com/zenlee-george/calculator",
+            "vercel":"wednesday-24-04cont.vercel.app",
+            "description":"I used ....",
+            "image":"URL"
+        },
+        {
+            "name":"BMI Calculator",
+            "github":"https://github.com/zenlee-george/BMI-calculator",
+            "vercel":"bmi-calculator-sable-ten.vercel.app",
+            "description":"I used ....",
+            "image":"URL"
+        },
+        {
+            "name":"Hulu Clone",
+            "github":"https://github.com/zenlee-george/hulu-clone",
+            "vercel":"hulu-clone-red-two.vercel.app",
+            "description":"I used ....",
+            "image":"URL"
+        },
+        {
+            "name":"CSS activity",
+            "github":"https://github.com/zenlee-george/CSS-activity",
+            "vercel":"css-activity.vercel.app",
+            "description":"I used ....",
+            "image":"URL"
+        },
+        {
+            "name":"Web exercise",
+            "github":"https://github.com/zenlee-george/webExercise2",
+            "vercel":"web-exercise2-weld.vercel.app",
+            "description":"I used ....",
+            "image":"URL"
+        }
+    ],
+        "education":[
+            {
+                "description":"",
+                "year":"2nd April - to present",
+                "placeOfInstituion":""
+            }
+        ],
+        "skills":[
+            {
+                "name":"HTML",
+                "level":"Advanced"
+            },
+            {
+                "name":"HTML",
+                "level":"Advanced"
+            }
+        ],
+        "workExp":[
+            {
+                "placeOfWork":"",
+                "year":"",
+                "description":"",
+                "contact":{
+                    "name":"",
+                    "cell":"",
+                    "postion":""
+                }
+            }
+        ],
+        "Testimonials":[
+            {
+                "name":"",
+                "postion":"",
+                "message":""
+            }
+        ]
+}
