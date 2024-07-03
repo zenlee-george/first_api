@@ -1,75 +1,175 @@
 {
-    "aboutMe":"My name is Zen George and I am a student at Life Choices","projects":[
-        {
-            "name":"Calculator",
-            "github":"https://github.com/zenlee-george/calculator",
-            "vercel":"wednesday-24-04cont.vercel.app",
-            "description":"I used ....",
-            "image":"URL"
-        },
-        {
-            "name":"BMI Calculator",
-            "github":"https://github.com/zenlee-george/BMI-calculator",
-            "vercel":"bmi-calculator-sable-ten.vercel.app",
-            "description":"I used ....",
-            "image":"URL"
-        },
-        {
-            "name":"Hulu Clone",
-            "github":"https://github.com/zenlee-george/hulu-clone",
-            "vercel":"hulu-clone-red-two.vercel.app",
-            "description":"I used ....",
-            "image":"URL"
-        },
-        {
-            "name":"CSS activity",
-            "github":"https://github.com/zenlee-george/CSS-activity",
-            "vercel":"css-activity.vercel.app",
-            "description":"I used ....",
-            "image":"URL"
-        },
-        {
-            "name":"Web exercise",
-            "github":"https://github.com/zenlee-george/webExercise2",
-            "vercel":"web-exercise2-weld.vercel.app",
-            "description":"I used ....",
-            "image":"URL"
-        }
+    "jobTitle": [
+      {
+        "title": "Fullstack Developer"
+      },
+      {
+        "title": "Software Engineer"
+      }
     ],
-        "education":[
-            {
-                "description":"",
-                "year":"2nd April - to present",
-                "placeOfInstituion":""
-            }
-        ],
-        "skills":[
-            {
-                "name":"HTML",
-                "level":"Advanced"
-            },
-            {
-                "name":"HTML",
-                "level":"Advanced"
-            }
-        ],
-        "workExp":[
-            {
-                "placeOfWork":"",
-                "year":"",
-                "description":"",
-                "contact":{
-                    "name":"",
-                    "cell":"",
-                    "postion":""
-                }
-            }
-        ],
-        "Testimonials":[
-            {
-                "name":"",
-                "postion":"",
-                "message":""
-            }
-        ]
-}
+    "aboutMe": [
+      {
+        "name": "About",
+        "text": "I am a compassionate person who enjoys having fun and joking around while knowing when to lock in and take things seriously. I hold values such as respect, kindness, integrity and mindfulness. I also pride myself on being honest and transparent. I enjoy improving myself and encouraging others. My interests are almost endless but my favourite hobbies are exercising, MMA, football, web development and design, drawing, music, watching movies and spending time with my loved ones."
+      },
+      {
+        "name": "Objective",
+        "text": "I am quite ambitious and strive to be healthy and successful in all areas of my life. I crave wisdom and improvement so upskilling is second nature. I aim to cultivate generational wealth and impact many lives for the better."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Calculator",
+        "github": "https://github.com/zenlee-george/calculator",
+        "vercel": "wednesday-24-04cont.vercel.app",
+        "description": "Calculator using HTML, CSS and Javascript",
+        "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/Calculator.png?raw=true"
+      },
+      {
+        "name": "To Do List",
+        "github": "https://github.com/zenlee-george/To-Do-List",
+        "vercel": "to-do-list-chi-black.vercel.app",
+        "description": "To Do List using HTML, CSS and Javascript",
+        "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/ToDoList.png?raw=true"
+      },
+      {
+        "name": "Bootstrap Portfolio",
+        "github": "https://github.com/zenlee-george/Boostrap-EOMP",
+        "vercel": "boostrap-eomp.vercel.app",
+        "description": "Portfolio made using HTML and CSS with bootstrap included",
+        "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/MP3player.png?raw=true"
+      },
+      {
+        "name": "Javascript Ecom Project",
+        "github": "https://github.com/zenlee-george/JSEOMP",
+        "vercel": "jseomp.vercel.app",
+        "description": "Lego eccommerce website made using HTML, CSS and Javascript",
+        "image": ""
+      },
+      {
+        "name": "Javascript Ecom Project",
+        "github": "https://github.com/zenlee-george/JSEOMP",
+        "vercel": "jseomp.vercel.app",
+        "description": "Lego eccommerce website made using HTML, CSS and Javascript",
+        "image": ""
+      }
+    ],
+    "education": [
+      {
+        "qualification": "Fullstack Web Development Bootcamp",
+        "year": "April 2024 - ",
+        "institution": "Life Choices Coding Academy",
+        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/LC.png?raw=true"
+      },
+      {
+        "qualification": "BA Sport Science & Psychology",
+        "year": "January 2020 - December 2022",
+        "institution": "Stellenbosch University",
+        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/su.png?raw=true"
+      },
+      {
+        "qualification": "ND Civil Engineering",
+        "year": "January 2019 - December 2019",
+        "institution": "CPUT",
+        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/cput.png?raw=true"
+      },
+      {
+        "qualification": "NSC",
+        "year": "January 2014 - December 2018",
+        "institution": "Spine Road High School",
+        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/srhs.png?raw=true"
+      }
+    ],
+    "skills": [
+      {
+        "icon": "icon",
+        "name": "HTML"
+      },
+      {
+        "icon": "icon",
+        "name": "CSS"
+      },
+      {
+        "icon": "icon",
+        "name": "Bootstrap"
+      },
+      {
+        "icon": "icon",
+        "name": "Javascript"
+      },
+      {
+        "icon": "icon",
+        "name": "Vue"
+      },
+      {
+        "icon": "icon",
+        "name": "Git"
+      },
+      {
+        "icon": "icon",
+        "name": "Github"
+      }
+    ],
+    "work": [
+      {
+        "company": "Digital Code",
+        "year": "June 2024 -",
+        "position": "CEO",
+        "description": "I have started a digital marketing agency transforming businesses with beautiful designs and websites.",
+        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/dc%20letter%20logo%20design%20inspiration.jpg?raw=true"
+      },
+      {
+        "company": "Oceana Distribution",
+        "year": "September 2023 - January 2024",
+        "position": "Sales Representative",
+        "description": "I displayed sharp sales skills, supplying Red Bull to franchises such as Wembley, Cabo Beach Club, LA Lounge and events such as Secrets of Summer",
+        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/oceana.png?raw=true"
+      },
+      {
+        "company": "Statera Realty",
+        "year": "May 2023 - September 2023",
+        "position": "Real Estate Agent",
+        "description": "As an intern agent I took quickly to the property industry and became a promising prospect, handling lead generation, viewings, mandates and deals.",
+        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/statera%20realty.jpg?raw=true"
+      },
+      {
+        "company": "Herbalife",
+        "year": "September 2019 - December 2019",
+        "position": "Sales Consultant",
+        "description": "I worked at the Herbalife Sales Centre, providing and assisting customers with orders and managing stock",
+        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/herbalife.jpg?raw=true"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "",
+        "position": "",
+        "message": ""
+      },
+      {
+        "name": "",
+        "position": "",
+        "message": ""
+      },
+      {
+        "name": "",
+        "position": "",
+        "message": ""
+      },
+      {
+        "name": "",
+        "position": "",
+        "message": ""
+      },
+      {
+        "name": "",
+        "position": "",
+        "message": ""
+      },
+      {
+        "name": "",
+        "position": "",
+        "message": ""
+      }
+    ]
+  }
