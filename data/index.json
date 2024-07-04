@@ -2,19 +2,12 @@
     "jobTitle": [
       {
         "title": "Fullstack Developer"
-      },
-      {
-        "title": "Software Engineer"
       }
     ],
     "aboutMe": [
       {
         "name": "About",
         "text": "I am a compassionate person who enjoys having fun and joking around while knowing when to lock in and take things seriously. I hold values such as respect, kindness, integrity and mindfulness. I also pride myself on being honest and transparent. I enjoy improving myself and encouraging others. My interests are almost endless but my favourite hobbies are exercising, MMA, football, web development and design, drawing, music, watching movies and spending time with my loved ones."
-      },
-      {
-        "name": "Objective",
-        "text": "I am quite ambitious and strive to be healthy and successful in all areas of my life. I crave wisdom and improvement so upskilling is second nature. I aim to cultivate generational wealth and impact many lives for the better."
       }
     ],
     "projects": [
@@ -47,10 +40,17 @@
         "image": ""
       },
       {
-        "name": "Javascript Ecom Project",
-        "github": "https://github.com/zenlee-george/JSEOMP",
-        "vercel": "jseomp.vercel.app",
-        "description": "Lego eccommerce website made using HTML, CSS and Javascript",
+        "name": "Hulu clone",
+        "github": "https://github.com/zenlee-george/hulu-clone",
+        "vercel": "hulu-clone-red-two.vercel.app",
+        "description": "Hulu clone made with JavaScript, CSS and HTML",
+        "image": ""
+      },
+      {
+        "name": "Temperature Converter",
+        "github": "https://github.com/zenlee-george/TemperatureConverter",
+        "vercel": "temperature-converter-mu-gold.vercel.app",
+        "description": "Temperature converter made using HTML, CSS and Javascript",
         "image": ""
       }
     ],
@@ -75,101 +75,116 @@
       },
       {
         "qualification": "NSC",
-        "year": "January 2014 - December 2018",
-        "institution": "Spine Road High School",
+        "year": "January 2017 - December 2021",
+        "institution": "Bosmansdam High School",
         "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/srhs.png?raw=true"
       }
     ],
+
     "skills": [
+    {
+      "icon": "fa-html5",
+      "name": "HTML"
+    },
+    {
+      "icon": "fa-css3-alt",
+      "name": "CSS"
+    },
+    {
+      "icon": "fa-bootstrap",
+      "name": "Bootstrap"
+    },
+    {
+      "icon": "fa-js",
+      "name": "Javascript"
+    },
+    {
+      "icon": "fa-vuejs",
+      "name": "Vue.js"
+    },
+    {
+      "icon": "fa-git",
+      "name": "Git"
+    },
+    {
+      "icon": "fa-github",
+      "name": "Github"
+    }
+  ],
+
+  "softSkills": [
       {
-        "icon": "icon",
-        "name": "HTML"
+          "name": "Leadership"
       },
       {
-        "icon": "icon",
-        "name": "CSS"
+          "name": "Creativity"
       },
       {
-        "icon": "icon",
-        "name": "Bootstrap"
+          "name": "Problem Solving"
       },
       {
-        "icon": "icon",
-        "name": "Javascript"
+          "name": "Sales & Lead Generation"
       },
       {
-        "icon": "icon",
-        "name": "Vue"
+          "name": "Marketing"
       },
       {
-        "icon": "icon",
-        "name": "Git"
+          "name": "Collaboration"
       },
       {
-        "icon": "icon",
-        "name": "Github"
+          "name": "Communication"
+      },
+      {
+          "name": "Public Speaking & Elocution"
       }
-    ],
+
+  ],
+
     "work": [
       {
-        "company": "Digital Code",
-        "year": "June 2024 -",
-        "position": "CEO",
-        "description": "I have started a digital marketing agency transforming businesses with beautiful designs and websites.",
+        "company": "Century City Castings",
+        "year": "January 2021 - April 2024",
+        "position": "Agent",
+        "description": "I worked for the company as their agent for just over 3 years. My duties included recruiting people for ads and movie roles and to do the admin to make sure everyone was on our books",
         "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/dc%20letter%20logo%20design%20inspiration.jpg?raw=true"
-      },
-      {
-        "company": "Oceana Distribution",
-        "year": "September 2023 - January 2024",
-        "position": "Sales Representative",
-        "description": "I displayed sharp sales skills, supplying Red Bull to franchises such as Wembley, Cabo Beach Club, LA Lounge and events such as Secrets of Summer",
-        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/oceana.png?raw=true"
-      },
-      {
-        "company": "Statera Realty",
-        "year": "May 2023 - September 2023",
-        "position": "Real Estate Agent",
-        "description": "As an intern agent I took quickly to the property industry and became a promising prospect, handling lead generation, viewings, mandates and deals.",
-        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/statera%20realty.jpg?raw=true"
-      },
-      {
-        "company": "Herbalife",
-        "year": "September 2019 - December 2019",
-        "position": "Sales Consultant",
-        "description": "I worked at the Herbalife Sales Centre, providing and assisting customers with orders and managing stock",
-        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/herbalife.jpg?raw=true"
       }
     ],
     "testimonials": [
       {
-        "name": "",
-        "position": "",
-        "message": ""
+        "name": "Cameron Michaels",
+        "position": "Colleague/Friend",
+        "message": "Zen's coding prowess is undeniable. His commitment and skill set him apart in our class. He's destined for success in the coding world.",
+        "image": "https://zenlee-george.github.io/hostedimages/cameron.jpeg"
       },
       {
-        "name": "",
-        "position": "",
-        "message": ""
+        "name": "Caleb Okkers",
+        "position": "Colleague/Friend",
+        "message": "I am grateful to call Zen a close friend and a colleague who I truly admire. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He is kind, generous and hilarious. Zen would be a valuable asset to any organization.",
+        "image": "https://zenlee-george.github.io/hostedimages/caleb.jpg"
       },
       {
-        "name": "",
-        "position": "",
-        "message": ""
+        "name": "Jordan Springveldt",
+        "position": "Colleague/Friend",
+        "message": "Zen's dedication to mastering coding is truly commendable. His passion for the craft shines through in every line of code he writes. As a fellow student, I've witnessed firsthand his unwavering commitment to excellence. With his sharp problem-solving skills and meticulous attention to detail, Zen is undoubtedly a rising star in the coding world.",
+        "image": "https://zenlee-george.github.io/hostedimages/jordan.jpeg"
       },
       {
-        "name": "",
-        "position": "",
-        "message": ""
+        "name": "Chandre Davids",
+        "position": "Colleague/Friend",
+        "message": "Zen is one of the most talented people I know in terms of design, whether it be clothing or coming up with themes for his new upcoming projects. He definitely is someone you should watch out for!",
+        "image": "https://zenlee-george.github.io/hostedimages/chandre.jpeg"
       },
       {
-        "name": "",
-        "position": "",
-        "message": ""
-      },
+        "name": "Mohammad Mohamed",
+        "position": "Colleague/Friend",
+        "message": "Zen is hard working, has high work ethic and eagerness to help others already makes him such a talented developer. Once you see his projects or designs, you'll realize that he is an amazingly skilled developer who has a bright future in this industry.",
+        "image": "https://zenlee-george.github.io/hostedimages/Mo.jpg"
+    },
       {
-        "name": "",
-        "position": "",
-        "message": ""
+        "name": "Matthew Brown",
+        "position": "Lecture",
+        "message": "Zen has shown exceptional coding skills throughout the course. With a strong grasp of programming concepts and impressive problem-solving abilities, Zen is poised for success in any coding endeavors",
+        "image": "https://zenlee-george.github.io/hostedimages/matthew.jpeg"
       }
     ]
   }
