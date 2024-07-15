@@ -1,57 +1,82 @@
 {
-    "jobTitle": [
+  "jobTitle": [
       {
-        "title": "Fullstack Developer"
-      }
-    ],
+      "title": "Fullstack Developer"
+  },
+  {
+      "title": "Software Engineer"
+  },
+  {
+      "title": "UI/UX Designer"
+  }
+
+  ],
     "aboutMe": [
       {
         "name": "About",
         "text": "I'm a warm-hearted and light-hearted person who knows when to be playful and when to buckle down. My guiding principles include empathy, compassion, and authenticity, always being present in the moment. I'm driven to grow as a person and inspire others to do the same. My eclectic passions include gaming, skating, and baking, as well as creative pursuits like coding, visual design, art, and music. I also love catching a good film and making memories with the people closest to me."
       }
     ],
+    "hobbies": [
+      {
+          "image": "https://zenlee-george.github.io/hostedimages/Game.jpg",
+          "name": "Gaming",
+          "text": "Throughout my life, gaming has been a constant companion. I grew up playing classic titles and exploring new worlds. My favorite games are RPGs, strategy games, and multiplayer battles. Gaming has taught me lessons of perseverance, teamwork, and creative problem-solving."
+      },
+      {
+          "image": "https://zenlee-george.github.io/hostedimages/Baking.jpg",
+          "name": "Baking",
+          "text": "My creativity has always been a great asset, in problem solving, expression and leisure. I enjoy experimenting with new recipes, decorating cakes, and trying out different flavors. Baking allows me to exercise my creativity, helping me thrive holistically."
+      },
+      {
+          "image": "https://zenlee-george.github.io/hostedimages/Family.jpg",
+          "name": "Family",
+          "text": "I love spending time with my family, friends and pets. I am a social person and it brings me joy to relax or clown around with my loved ones. They have shaped who I am today and I'm so grateful to be able to spend time with them."
+      }
+  ],
+  
     "projects": [
       {
         "name": "Calculator",
         "github": "https://github.com/zenlee-george/calculator",
         "vercel": "wednesday-24-04cont.vercel.app",
-        "description": "Calculator using HTML, CSS and Javascript",
-        "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/Calculator.png?raw=true"
+        "description": "HTML, CSS and Javascript",
+        "image": "https://zenlee-george.github.io/hostedimages/calculator.png"
       },
       {
         "name": "To Do List",
         "github": "https://github.com/zenlee-george/To-Do-List",
         "vercel": "to-do-list-chi-black.vercel.app",
-        "description": "To Do List using HTML, CSS and Javascript",
-        "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/ToDoList.png?raw=true"
+        "description": "HTML, CSS and Javascript",
+        "image": "https://zenlee-george.github.io/hostedimages/ToDoList.PNG"
       },
       {
         "name": "Bootstrap Portfolio",
         "github": "https://github.com/zenlee-george/Boostrap-EOMP",
         "vercel": "boostrap-eomp.vercel.app",
-        "description": "Portfolio made using HTML and CSS with bootstrap included",
-        "image": "https://github.com/caleb-okkers/hostedImages2/blob/main/MP3player.png?raw=true"
+        "description": "HTML and CSS with bootstrap included",
+        "image": "https://zenlee-george.github.io/hostedimages/Portfolio.PNG"
       },
       {
         "name": "Javascript Ecom Project",
         "github": "https://github.com/zenlee-george/JSEOMP",
         "vercel": "jseomp.vercel.app",
-        "description": "Lego eccommerce website made using HTML, CSS and Javascript",
-        "image": ""
+        "description": "HTML, CSS and Javascript",
+        "image": "https://zenlee-george.github.io/hostedimages/LegoWebsite.PNG"
       },
       {
         "name": "Hulu clone",
         "github": "https://github.com/zenlee-george/hulu-clone",
         "vercel": "hulu-clone-red-two.vercel.app",
-        "description": "Hulu clone made with JavaScript, CSS and HTML",
-        "image": ""
+        "description": "JavaScript, CSS and HTML",
+        "image": "https://zenlee-george.github.io/hostedimages/hulu clone.png"
       },
       {
         "name": "Temperature Converter",
         "github": "https://github.com/zenlee-george/TemperatureConverter",
         "vercel": "temperature-converter-mu-gold.vercel.app",
-        "description": "Temperature converter made using HTML, CSS and Javascript",
-        "image": ""
+        "description": "HTML, CSS and Javascript",
+        "image": "https://zenlee-george.github.io/hostedimages/TempConv.PNG"
       }
     ],
     "education": [
@@ -62,55 +87,62 @@
         "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/LC.png?raw=true"
       },
       {
-        "qualification": "BA Sport Science & Psychology",
-        "year": "January 2020 - December 2022",
-        "institution": "Stellenbosch University",
-        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/su.png?raw=true"
-      },
-      {
-        "qualification": "ND Civil Engineering",
-        "year": "January 2019 - December 2019",
-        "institution": "CPUT",
-        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/cput.png?raw=true"
-      },
-      {
         "qualification": "NSC",
         "year": "January 2017 - December 2021",
         "institution": "Bosmansdam High School",
-        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/srhs.png?raw=true"
+        "image": "https://zenlee-george.github.io/hostedimages/Bosmansdam.PNG"
       }
     ],
 
     "skills": [
     {
-      "icon": "fa-html5",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/html5.svg",
       "name": "HTML"
     },
     {
-      "icon": "fa-css3-alt",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/css.svg",
       "name": "CSS"
     },
     {
-      "icon": "fa-bootstrap",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/bootstrap.svg",
       "name": "Bootstrap"
     },
     {
-      "icon": "fa-js",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/javascript-svgrepo-com.svg",
       "name": "Javascript"
     },
     {
-      "icon": "fa-vuejs",
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/vue-svgrepo-com.svg",
       "name": "Vue.js"
     },
     {
-      "icon": "fa-git",
-      "name": "Git"
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/7489c1873d2578b64e440f82e75c8cb23ed85a62/src/assets/nodejs-icon-svgrepo-com.svg",
+      "name": "Node.js"
     },
     {
-      "icon": "fa-github",
-      "name": "Github"
+      "icon": "https://raw.githubusercontent.com/caleb-okkers/vueportfolio/00d0d4884b8baf01e1c0b6b4cca552b5311db935/src/assets/git-svgrepo-com.svg",
+      "name": "Git"
     }
   ],
+
+  "designSkills": [
+        {
+            "icon": "https://zenlee-george.github.io/hostedimages/canva-logo.png",
+            "name": "Canva"
+        },
+        {
+            "icon": "https://zenlee-george.github.io/hostedimages/figma-logo.png",
+            "name": "Figma"
+        },
+        {
+            "icon": "https://zenlee-george.github.io/hostedimages/pixso-logo.jpg",
+            "name": "Pixso"
+        },
+        {
+            "icon": "https://zenlee-george.github.io/hostedimages/Adobe_Photoshop_CC_icon.svg.png",
+            "name": "Photoshop"
+        }
+    ],
 
   "softSkills": [
       {
@@ -143,7 +175,7 @@
         "year": "January 2021 - April 2024",
         "position": "Agent",
         "description": "I worked for the company as their agent for just over 3 years. My duties included recruiting people for ads and movie roles and to do the admin to make sure everyone was on our books",
-        "image": "https://github.com/caleb-okkers/vueportfolio/blob/main/src/assets/dc%20letter%20logo%20design%20inspiration.jpg?raw=true"
+        "image": "https://zenlee-george.github.io/hostedimages/CC.PNG"
       }
     ],
     "testimonials": [
